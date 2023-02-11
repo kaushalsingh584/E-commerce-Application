@@ -1,0 +1,3 @@
+slugify
+super
+related_name
